@@ -8,7 +8,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
       alt="Erikline's GitHub Stats"
-      width="390" <!-- 您设置的宽度 -->
+      width="390"
     />
   </picture>
 
@@ -16,6 +16,6 @@
   <img
     src="https://streak-stats.demolab.com/?user=Erikline"
     alt="Erikline's GitHub Streak"
-    width="412" <!-- 您设置的宽度 -->
+    width="412"
   />
 </div>
