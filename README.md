@@ -6,6 +6,7 @@
 srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
 media="(prefers-color-scheme: dark)"
 />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Erikline)](https://git.io/streak-stats)
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
