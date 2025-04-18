@@ -17,7 +17,7 @@
       <img
         src="https://streak-stats.demolab.com/?user=Erikline"
         alt="Erikline's GitHub Streak"
-        width="390"
+        width="420"
       />
     </td>
   </tr>
