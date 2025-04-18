@@ -1,4 +1,3 @@
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
@@ -10,3 +9,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true" />
 </picture>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikline)
