@@ -7,8 +7,9 @@
     src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true" 
     alt="Erikline's GitHub Stats"
   />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Erikline)](https://git.io/streak-stats)
 </picture>
+
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1" srcset="https://streak-stats.demolab.com/?user=DenverCoder1" alt="DenverCoder1's GitHub Streak">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
