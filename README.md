@@ -5,17 +5,17 @@
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
 media="(prefers-color-scheme: dark)"
-
-srcset="https://streak-stats.demolab.com/?user=DenverCoder1"
 />
 
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1" srcset="https://streak-stats.demolab.com/?user=DenverCoder1" alt="DenverCoder1's GitHub Streak">
+<p align='center'>
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true" />
 </picture>
-
+</p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
