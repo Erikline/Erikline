@@ -1,4 +1,4 @@
-### :star2: Halo！Welcome to Erikline！
+### :star2: Halo！Welcome to Erikline！ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
