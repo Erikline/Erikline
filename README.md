@@ -1,3 +1,4 @@
+:star2: Halo！
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
