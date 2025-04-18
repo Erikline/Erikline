@@ -9,7 +9,7 @@
         <img
           src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
           alt="Erikline's GitHub Stats"
-          width="390" <!-- 稍微减小? -->
+          width="390" 
         />
       </picture>
     </td>
@@ -17,7 +17,7 @@
       <img
         src="https://streak-stats.demolab.com/?user=Erikline"
         alt="Erikline's GitHub Streak"
-        width="360" <!-- 稍微增大? -->
+        width="360"
       />
     </td>
   </tr>
