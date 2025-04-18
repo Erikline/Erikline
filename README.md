@@ -2,18 +2,17 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20Erikline's%20Github%20!&descAlignY=51&descAlign=62"/>
 </p>
 
- <picture>
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
-     media="(prefers-color-scheme: dark)"
-   />
-   
-   <!-- Fallback image: Needs a src! Use the dark one? Or a light one? Let's use the dark one as fallback if only dark source is given -->
-   <img 
-     src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark" 
-     alt="Erikline's GitHub Stats" 
-   /> 
- </picture> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Fallback for light mode or unsupported browsers -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true" <!-- Maybe remove theme=dark or set theme=light -->
+    alt="Erikline's GitHub Stats"
+  />
+</picture>
  
 <p align='center'>
 <source
