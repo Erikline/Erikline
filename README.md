@@ -3,7 +3,6 @@
 </p>
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <!-- 第一个组件：GitHub Stats -->
   <picture>
     <img
       src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
@@ -12,7 +11,6 @@
     />
   </picture>
 
-  <!-- 第二个组件：Streak Stats -->
   <img
     src="https://streak-stats.demolab.com/?user=Erikline"
     alt="Erikline's GitHub Streak"
