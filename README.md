@@ -7,7 +7,7 @@
     <td valign="top">
       <picture>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true"
+          src="https://github-readme-stats.vercel.app/api?username=Erikline&show_icons=true&hide_border=true"
           alt="Erikline's GitHub Stats"
           width="390"
         />
@@ -15,7 +15,7 @@
     </td>
     <td valign="top">
       <img
-        src="https://streak-stats.demolab.com/?user=Erikline"
+        src="https://streak-stats.demolab.com/?user=Erikline&hide_border=true"
         alt="Erikline's GitHub Streak"
         width="412"
       />
