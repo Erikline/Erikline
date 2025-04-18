@@ -9,7 +9,7 @@
       alt="Erikline's GitHub Stats"
     />
   </picture>
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1" srcset="https://streak-stats.demolab.com/?user=DenverCoder1" alt="DenverCoder1's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Erikline" srcset="https://streak-stats.demolab.com/?user=Erikline" alt="Erikline's GitHub Streak">
 </div>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
