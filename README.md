@@ -19,6 +19,7 @@
       <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikline&hide_border=true&layout=compact&theme=transparent"
           alt="Erikline's Top Languages"
+          width="390"
     </td>
   </tr>
 </table>
